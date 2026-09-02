@@ -79,3 +79,7 @@ type InfoBandejas = {
     recetas_bandeja: string[];
 }
 type bandejas = InfoBandejas 
+
+type nose = {
+    pene: string;
+}
