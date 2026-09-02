@@ -6,7 +6,7 @@ type InfoUsuarios = {
     email: string;
     foto_perfil: string;
     descripcion: string;
-    fecha_registro_usuario: string;
+    fecha_registro_usuario: Date;
     restricciones: string[];
 }
 type Usuarios = InfoUsuarios
@@ -80,6 +80,3 @@ type InfoBandejas = {
 }
 type bandejas = InfoBandejas 
 
-type nose = {
-    pene: string;
-}

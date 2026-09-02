@@ -1,16 +1,14 @@
-{  
-    "usuarios": [
-        {
-            "id": 1,
-            "nombre": "Martina",
-            "apellido": "Anchaño",
-            "username": "marti123",
-            "email": "marti260411@gmail.com",
-            "foto_perfil": "perfil1.jpg",
-            "descripcion": "me encanta concinar :)",
-            "fecha_registro_usuario": "2026-08-12", 
-            "restricciones": ["veganx", "diabeticx", "hipertensx"] 
-
-        }
-    ]
+{
+  "id": 67,
+  "nombre": "Dante",
+  "apellido": "Orti",
+  "username": "dantesin",
+  "email": "dantesinelmaspro@gmail.com",
+  "foto_perfil": "ftonofachera.jpg",
+  "descripcion": "hola soi dante",
+  "fecha_registro_usuario": "2026-09-02T03:00:00.000Z",
+  "restricciones": [
+    "vegetarianx",
+    "celiacx"
+  ]
 }
