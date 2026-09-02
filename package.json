@@ -19,5 +19,9 @@
   "homepage": "https://github.com/martinaanchanio/backend-proyecto-2026#readme",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "typescript": "^7.0.2"
   }
 }
