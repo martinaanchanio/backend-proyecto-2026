@@ -1,0 +1,16 @@
+{  
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Martina",
+            "apellido": "Anchaño",
+            "username": "marti123",
+            "email": "marti260411@gmail.com",
+            "foto_perfil": "perfil1.jpg",
+            "descripcion": "me encanta concinar :)",
+            "fecha_registro_usuario": "2026-08-12", 
+            "restricciones": ["veganx", "diabeticx", "hipertensx"] 
+
+        }
+    ]
+}
