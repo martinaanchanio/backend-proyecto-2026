@@ -1,5 +1,5 @@
 type InfoUsuarios = {
-    id: number;
+    id: string;
     nombre: string;
     apellido: string;
     username: string;
@@ -9,9 +9,9 @@ type InfoUsuarios = {
     fecha_registro_usuario: Date;
     restricciones: string[];
 }
-type Usuarios = InfoUsuarios
+export type Usuarios = InfoUsuarios
 
-type comentario = {
+export type comentario = {
     texto: string[];
     fecha: string;
 }
@@ -26,7 +26,7 @@ type InfoReceta = {
     comentarios_receta: number;
     comentarios: comentario[];
 }
-type receta = InfoReceta
+export type receta = InfoReceta
 
 type InfoPost = {
     id: string;
@@ -39,7 +39,7 @@ type InfoPost = {
     comentarios_post: number;
     comentarios: comentario[];
 }
-type post = InfoPost
+export type post = InfoPost
 
 type InfoMisiones = {
     id: string;
@@ -48,7 +48,7 @@ type InfoMisiones = {
     recompensa: number;
     cuenta: number;
 }
-type misiones = InfoMisiones
+export type misiones = InfoMisiones
 
 type InfoMetas = {
     id: string;
@@ -58,7 +58,7 @@ type InfoMetas = {
     recompensa: number;
     cuenta: number;
 }
-type metas = InfoMetas
+export type metas = InfoMetas
 
 type InfoMaestrias = {
     id: string;
@@ -68,7 +68,7 @@ type InfoMaestrias = {
     nivel: string;
     cuenta: number;
 }
-type maestrias = InfoMaestrias
+export type maestrias = InfoMaestrias
 
 type InfoBandejas = {
     id: string;
@@ -78,5 +78,5 @@ type InfoBandejas = {
     filtros: string[];
     recetas_bandeja: string[];
 }
-type bandejas = InfoBandejas 
+export type bandejas = InfoBandejas 
 

@@ -1,14 +1,84 @@
-{
-  "id": 67,
-  "nombre": "Dante",
-  "apellido": "Orti",
-  "username": "dantesin",
-  "email": "dantesinelmaspro@gmail.com",
-  "foto_perfil": "ftonofachera.jpg",
-  "descripcion": "hola soi dante",
-  "fecha_registro_usuario": "2026-09-02T03:00:00.000Z",
-  "restricciones": [
-    "vegetarianx",
-    "celiacx"
-  ]
-}
+[
+  {
+    "id": 67,
+    "nombre": "Dante",
+    "apellido": "Orti",
+    "username": "dantesin",
+    "email": "dantesinelmaspro@gmail.com",
+    "foto_perfil": "ftonofachera.jpg",
+    "descripcion": "hola soi dante",
+    "fecha_registro_usuario": "2026-09-02T03:00:00.000Z",
+    "restricciones": [
+      "vegetarianx",
+      "celiacx"
+    ]
+  },
+  {
+    "id": "0000000068",
+    "nombre": "Martu Editada",
+    "apellido": "Pepo",
+    "username": "pepito67",
+    "email": "pepito@gmail.com",
+    "foto_perfil": "foto.jpg",
+    "descripcion": "Descripción actualizada!",
+    "fecha_registro_usuario": "2026-05-07T03:00:00.000Z",
+    "restricciones": [
+      "veganx",
+      "diabeticx"
+    ]
+  },
+  {
+    "id": "0000000069",
+    "nombre": "Melanie",
+    "apellido": "Oppen",
+    "username": "melulanga",
+    "email": "meliiii@gmail.com",
+    "foto_perfil": "fotoo.jpg",
+    "descripcion": "soi meli",
+    "fecha_registro_usuario": "2026-08-07T03:00:00.000Z",
+    "restricciones": [
+      "diabeticx",
+      "intolerantx a la lactosa"
+    ]
+  },
+  {
+    "id": "0000000070",
+    "nombre": "anastacia",
+    "apellido": "Les",
+    "username": "martu176",
+    "email": "martule@gmail",
+    "foto_perfil": "fotoo.jpg",
+    "descripcion": "soy martu",
+    "fecha_registro_usuario": "2026-08-07T03:00:00.000Z",
+    "restricciones": [
+      "ninguna"
+    ]
+  },
+  {
+    "id": "0000000071",
+    "nombre": "Martina",
+    "apellido": "Anchaño",
+    "username": "martunosabequehacer",
+    "email": "aniaseo@gmail",
+    "foto_perfil": "fotoeditadaIA.jpg",
+    "descripcion": "soy Martuuuuuuuu",
+    "fecha_registro_usuario": "2026-09-11T03:00:00.000Z",
+    "restricciones": [
+      "diabeticx",
+      "hipertensx"
+    ]
+  },
+  {
+    "id": "0000000072",
+    "nombre": "Juan",
+    "apellido": "Josefa",
+    "username": "juanitapro",
+    "email": "lol@gmail",
+    "foto_perfil": "fotoox.jpg",
+    "descripcion": "soy jucho",
+    "fecha_registro_usuario": "2026-09-07T03:00:00.000Z",
+    "restricciones": [
+      "todas"
+    ]
+  }
+]
